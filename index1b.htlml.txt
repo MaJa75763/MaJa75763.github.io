@@ -1,0 +1,11 @@
+<HTML>
+<HEAD>
+to jest nagłówek
+<TITLE> moja strona </TITLE>
+</HEAD>
+<BODY BGCOLOR="YELLOW">
+<FONT COLOR="NAYVY">
+tu będzie wpisana właściwa treść tej strony
+</FONT>
+</BODY>
+<HTML>
